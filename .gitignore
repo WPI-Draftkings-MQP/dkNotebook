@@ -1,3 +1,8 @@
-# 
+#
 data/*
 !data/WARNING
+.ipynb_checkpoints
+.DS_Store
+
+dataVault/*
+!dataVault/Creating The Vault.ipynb
