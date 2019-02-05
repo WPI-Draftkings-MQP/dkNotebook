@@ -3,6 +3,8 @@ data/*
 !data/WARNING
 .ipynb_checkpoints
 .DS_Store
+turing/QR_Stuff/data/*
 
 dataVault/*
 !dataVault/Creating The Vault.ipynb
+.DS_Store
